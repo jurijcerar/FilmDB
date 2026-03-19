@@ -53,21 +53,21 @@
   </Film>
   <Film>
     <directors>
-      <string>wgw</string>
+      <string>awg</string>
     </directors>
     <writers>
-      <string>ajaj</string>
+      <string>g</string>
     </writers>
     <actors>
-      <string>gggg</string>
+      <string>hh</string>
     </actors>
     <genres>
-      <string>Vojna</string>
+      <string>4</string>
     </genres>
-    <title>jgjgg</title>
-    <poster>F:\Projects\4. Semester\INTERAKCIJA ČLOVEK-RAČUNALNIK\Pregledovalnik Filmske Baze\Filmska Baza\Filmska Baza\Slike\4.jpg</poster>
-    <description>wawgh</description>
+    <title>Wow</title>
+    <poster>F:\Projects\4. Semester\INTERAKCIJA ČLOVEK-RAČUNALNIK\Pregledovalnik Filmske Baze\FilmDB\FilmDB\Slike\5.jpg</poster>
+    <description>awhw</description>
     <rating>3</rating>
-    <favorite>true</favorite>
+    <favorite>false</favorite>
   </Film>
 </ArrayOfFilm>

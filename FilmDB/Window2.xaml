@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Filmska_Baza"
         mc:Ignorable="d"
-        Title="Window2" Height="999.066" Width="1231.262" ResizeMode="NoResize">
+        Title="Add / Edit Film" Height="750" Width="900" ResizeMode="NoResize">
     <Window.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
